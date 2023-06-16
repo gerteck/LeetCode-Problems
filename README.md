@@ -1,5 +1,5 @@
 # ProblemsInPython
 Python Files
 
-For Leet Problems!
+For LeetCode Problems!
 
