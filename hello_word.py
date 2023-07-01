@@ -2,4 +2,5 @@ print("Hello World")
 
 
 test = []
-print(test[0])
+test[0] = 5
+print(test[1])
