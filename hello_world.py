@@ -1,4 +1,4 @@
 print("Hello World")
 
-
-print (int(5/2))
+new_list = [0] * 3
+print (new_list)
